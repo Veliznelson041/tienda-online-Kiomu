@@ -261,9 +261,9 @@ img{
 }
 
 .hm-grid-category .grid-item{
-    position: relative;
+    position:relative;
     border-radius: 5px;
-    overflow: hidden;
+    overflow:hidden;
     max-height: 360px;
     
 }
